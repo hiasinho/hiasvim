@@ -6,7 +6,7 @@ The focus is on Rails.
 
 The config is using [Vundle](http://github.com/gmarik/vundle) for plugins.
 
-Thanks to [@astrails](https://twitter.com/astrails) for his work on dotvim.
+Thanks to [@astrails](https://twitter.com/astrails) for his work on [dotvim](https://github.com/astrails/dotvim).
 
 > IMPORTANT: **There is still work in progress**
 
