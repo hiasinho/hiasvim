@@ -20,7 +20,8 @@ Thanks to [@astrails]: https://twitter.com/astrails for his work on dotvim.
 
 From your homedirectory (on Linux/MacOSX):
 
+* `cd ~`
 * `git clone git://github.com/hiasinho/hiasvim.git`
 * `ln -sfn hiasvim .vim`
 * `ln -sfn hiasvim/vimrc .vimrc`
-* `cd .vim; make install`
+* `cd .vim && make install`
