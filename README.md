@@ -2,7 +2,7 @@
 
 ### My vim configuration
 
-The focus is on Rails.
+The focus is on Rails development.
 
 The config is using [Vundle](http://github.com/gmarik/vundle) for plugins.
 
